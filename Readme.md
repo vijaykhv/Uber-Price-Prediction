@@ -4,7 +4,7 @@
 <br />
 <div align="center">
     <a href="https://github.com/vijaykhv/Uber-Price-Prediction.git">
-    <img src="https://i.ibb.co/KGpPSRY/main.png" alt="main" border="0">
+    <img src="https://i.ibb.co/KGpPSRY/main.png" alt="main" border="0" width=50%  height=auto >
   </a>
 
   <h2 align="center">UBER FARE PREDICTION</h2>
@@ -105,7 +105,7 @@ To clone and run this application, you'll need Git and the specified libraries i
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/85mw8tR/3.png" alt="3" border="0"></a>
 
-<a href="https://ibb.co/WGDwYq1"><img src="https://i.ibb.co/ZGHPktC/2.png" alt="2" border="0"></a>
+<a href="https://ibb.co/WGDwYq1"><img src="https://i.ibb.co/n63v5ZS/2.png" alt="2" border="0" width=45% height=auto></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
